@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Homepage Root -->
+  <url>
+    <loc>https://usmandevhub.com/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/apple-touch-icon.png</image:loc>
+      <image:title>Usman DevHub Official Brand Logo</image:title>
+      <image:caption>Official brand logo of Usman DevHub (usmandevhub.com) – Founded by Muhammad Usman Afzal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/usman-devhub-logo.png</image:loc>
+      <image:title>Usman DevHub Tech &amp; Creative Studio Logo</image:title>
+      <image:caption>Vector digital agency logo for Usman DevHub</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/muhammad-usman-afzal.jpg</image:loc>
+      <image:title>Muhammad Usman Afzal – Founder &amp; Lead Full-Stack Architect</image:title>
+      <image:caption>Founder portrait of Muhammad Usman Afzal leading Usman DevHub Tech &amp; Creative Studio</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Core Services Overview -->
+  <url>
+    <loc>https://usmandevhub.com/#services</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Service 1: Web Development -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-1</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_web_dev_1790513257884.jpg</image:loc>
+      <image:title>Full-Stack Custom Web Development by Usman DevHub</image:title>
+      <image:caption>Custom web applications, WordPress websites, and high-performance corporate platforms</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 2: 3D Animated Websites -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_3d_web_1790513273723.jpg</image:loc>
+      <image:title>3D Animated &amp; Interactive WebGL Websites by Usman DevHub</image:title>
+      <image:caption>Three.js, WebGL 2.0 shaders, interactive product visualizers, and 60 FPS mobile performance</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 3: E-Commerce Development -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-3</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_ecommerce_1790513288467.jpg</image:loc>
+      <image:title>E-Commerce Store Development by Usman DevHub</image:title>
+      <image:caption>Shopify Plus, WooCommerce, and custom React headless commerce stores</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 4: Graphic Design & Branding -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_brand_design_1790513301396.jpg</image:loc>
+      <image:title>Graphic Design &amp; Brand Identity by Usman DevHub</image:title>
+      <image:caption>Memorable brand identities, luxury logo designs, Figma design systems, and marketing visuals</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 5: 3D Video Animation -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-5</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_video_anim_1790513313691.jpg</image:loc>
+      <image:title>3D Video Animation &amp; Motion Design by Usman DevHub</image:title>
+      <image:caption>Photorealistic 3D product animation, logo reveals, promotional videos, and transparent WebM alpha</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 6: Website Deployment & Cloud Setup -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-6</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_cloud_setup_1790513329153.jpg</image:loc>
+      <image:title>Website Deployment &amp; Cloud Setup by Usman DevHub</image:title>
+      <image:caption>Linux VPS, Docker containers, Cloudflare edge security, automated CI/CD pipelines, and SSL</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service 7: Website Maintenance & Speed Optimization -->
+  <url>
+    <loc>https://usmandevhub.com/#service-srv-7</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://usmandevhub.com/images/services/service_maintenance_1790513345000.jpg</image:loc>
+      <image:title>Website Maintenance &amp; Speed Optimization by Usman DevHub</image:title>
+      <image:caption>24/7 uptime monitoring, security patching, bug fixing, and Core Web Vitals 95+ speed tuning</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Work Portfolio Showcase -->
+  <url>
+    <loc>https://usmandevhub.com/#work</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Founder & Studio Leadership -->
+  <url>
+    <loc>https://usmandevhub.com/#founder</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- 20% Partner Referral Program -->
+  <url>
+    <loc>https://usmandevhub.com/#referral</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Verified Client Testimonials -->
+  <url>
+    <loc>https://usmandevhub.com/#testimonials</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- FAQ Section -->
+  <url>
+    <loc>https://usmandevhub.com/#faq</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Contact & Direct Inquiry -->
+  <url>
+    <loc>https://usmandevhub.com/#contact</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+</urlset>

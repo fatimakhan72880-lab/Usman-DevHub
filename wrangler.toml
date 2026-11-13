@@ -1,0 +1,12 @@
+# Cloudflare Configuration
+name = "usman-devhub"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[build]
+command = "npm run build:pages"
+
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"

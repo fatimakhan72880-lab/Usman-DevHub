@@ -1,0 +1,258 @@
+[
+  {
+    "id": "proj-orsish-3d-leash-animation",
+    "title": "ORSISH 3D Leash Animation",
+    "description": "A sleek 3D render highlighting the design and internal mechanics of the ORSISH leash. Crafted for clean commercial presentation and visual storytelling.",
+    "category": "3D Video Animation",
+    "subcategory": "Product Animation",
+    "technologies": [
+      "Cinema 4D",
+      "After Effects",
+      "3D Product Render",
+      "Mechanical Visualization",
+      "Commercial Motion",
+      "4K 60fps"
+    ],
+    "imageUrl": "https://res.cloudinary.com/ua6m4kr7/image/upload/v1794577601/Screenshot_20261113-183918.webp",
+    "videoUrl": "https://res.cloudinary.com/ua6m4kr7/video/upload/v1794578265/VID-20261022-WA0021-16x9.webm",
+    "liveUrl": "https://res.cloudinary.com/ua6m4kr7/video/upload/v1794578265/VID-20261022-WA0021-16x9.webm",
+    "featured": true,
+    "year": "2026",
+    "client": "ORSISH",
+    "metrics": "3D Internal Mechanics · Commercial Product Reveal · 16:9 HD Animation"
+  },
+  {
+    "id": "proj-velora-perfumes",
+    "title": "VELORA – Luxury Perfume E-Commerce Website",
+    "description": "An elegant luxury perfume website inspired by Parisian haute parfumerie, featuring premium fragrances, immersive visuals, and a sophisticated shopping experience.",
+    "category": "3D Animated Websites",
+    "subcategory": "Cinematic 3D Websites",
+    "technologies": [
+      "Three.js",
+      "WebGL",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "3D Visualizer"
+    ],
+    "imageUrl": "/images/showcases/velora.webp",
+    "liveUrl": "https://velora-parfums-paris.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "VELORA Parfums Paris",
+    "metrics": "Cinematic 3D Visualizer · Parisian Luxury Aesthetics · E-Commerce Commerce Engine"
+  },
+  {
+    "id": "proj-juicydrop",
+    "title": "JuicyDrop – Premium Beverage E-Commerce Website",
+    "description": "A vibrant beverage e-commerce website featuring cold-pressed sparkling drinks, interactive product showcases, custom 12-pack selections, and a seamless shopping experience.",
+    "category": "3D Animated Websites",
+    "subcategory": "Interactive 3D Product Experiences",
+    "technologies": [
+      "Three.js",
+      "WebGL",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "Interactive 3D Can Showcase"
+    ],
+    "imageUrl": "/images/showcases/juicydrop.webp",
+    "liveUrl": "https://juicydrop.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "JuicyDrop Sparkling Drinks",
+    "metrics": "Interactive 3D Can Rotation · Custom 12-Pack Configurator · 60fps Experience"
+  },
+  {
+    "id": "proj-vauban-geneve",
+    "title": "VAUBAN GENÈVE – Luxury Swiss Watch Website",
+    "description": "A premium Swiss watch website showcasing haute horology, exclusive timepieces, intricate craftsmanship, and bespoke concierge services through an elegant luxury experience.",
+    "category": "3D Animated Websites",
+    "subcategory": "Scroll-Driven Animation",
+    "technologies": [
+      "Three.js",
+      "WebGL",
+      "GSAP",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Scroll-Driven Animation",
+      "Cloudflare Workers"
+    ],
+    "imageUrl": "/images/showcases/vauban-geneve.webp",
+    "liveUrl": "https://vauban-gen-ve-web.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "VAUBAN GENÈVE Haute Horlogerie",
+    "metrics": "Scroll-Driven 3D Choreography · Swiss Haute Horlogerie · Bespoke Luxury Experience"
+  },
+  {
+    "id": "proj-la-veranda",
+    "title": "La Véranda – Luxury Restaurant Website",
+    "description": "A premium Italian fine-dining website featuring elegant visuals, an exquisite menu, immersive dining experiences, and seamless table reservations.",
+    "category": "Web Development",
+    "subcategory": "Business Websites",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "Interactive UI"
+    ],
+    "imageUrl": "/images/showcases/la-veranda.png",
+    "liveUrl": "https://v-la-v-randa-web-servicecc.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "La Véranda Ristorante Storico",
+    "metrics": "100% Responsive · Seamless Table Reservations · Fine-Dining Luxury"
+  },
+  {
+    "id": "proj-marginal",
+    "title": "Marginal – Creative Studio & Typography Website",
+    "description": "A sophisticated creative studio website showcasing brand identity, custom typography, and editorial design. Featuring minimalist aesthetics, immersive galleries, and refined digital experiences.",
+    "category": "Web Development",
+    "subcategory": "Portfolio Websites",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "Editorial Grid",
+      "Typography Design"
+    ],
+    "imageUrl": "/images/showcases/marginal.png",
+    "liveUrl": "https://marginal.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "Marginal Type & Design Practice",
+    "metrics": "Editorial Grid Layout · Custom Type Architecture · 60fps Micro-Interactions"
+  },
+  {
+    "id": "proj-aurelia-automobili",
+    "title": "AURELIA – Luxury Electric Automotive Website",
+    "description": "A premium automotive website showcasing bespoke electric grand tourers, cutting-edge engineering, elegant interiors, and immersive vehicle customization.",
+    "category": "Web Development",
+    "subcategory": "Custom Websites",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "Interactive Vehicle Configurator",
+      "Bespoke Grand Tourer UI"
+    ],
+    "imageUrl": "/assets/aistudio/Screenshot_2026-11-10_054436_1297a202.webp",
+    "liveUrl": "https://aurelia-automobili-modena.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "AURELIA Automobili Modena",
+    "metrics": "Bespoke Electric Grand Tourer · Immersive Configurator · Luxury Automotive Experience"
+  },
+  {
+    "id": "proj-luxora-estates",
+    "title": "LUXORA ESTATES – Luxury Real Estate Website",
+    "description": "A premium real estate website showcasing exclusive private residences, world-class architecture, bespoke interiors, and exceptional properties across Dubai, Marbella, Paris, and the French Riviera.",
+    "category": "Web Development",
+    "subcategory": "Corporate Websites",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Cloudflare Workers",
+      "Property Showcase UI",
+      "High-Performance Gallery"
+    ],
+    "imageUrl": "/assets/aistudio/Screenshot_2026-11-10_055526_2b2f5137.webp",
+    "liveUrl": "https://luxora-estatess.fatimakhan72880.workers.dev/",
+    "featured": true,
+    "year": "2026",
+    "client": "LUXORA ESTATES International",
+    "metrics": "Ultra-Luxury Real Estate · Global Property Portfolios · Bespoke Architectural Showcases"
+  },
+  {
+    "id": "proj-brand-identity-corporate-logos",
+    "title": "Brand Identity Design",
+    "description": "Professional logo showcase featuring corporate designs. Crafted with modern aesthetic details. Built for clean visual presentation.",
+    "category": "Graphic Design",
+    "subcategory": "Logo Design",
+    "technologies": [
+      "Adobe Illustrator",
+      "Vector Graphics",
+      "Corporate Identity",
+      "Brand Guidelines",
+      "Precision Typography",
+      "Full HD Presentation"
+    ],
+    "imageUrl": "/assets/aistudio/1794498097645_24721ae3.jpg",
+    "liveUrl": "/assets/aistudio/1794498097645_24721ae3.jpg",
+    "featured": true,
+    "year": "2026",
+    "client": "Corporate & Commercial Brands",
+    "metrics": "4 Unique Brand Concepts · Modern Aesthetic Details · Full Vector Handover"
+  },
+  {
+    "id": "proj-pro-audio-product-design",
+    "title": "Pro Audio",
+    "description": "Studio-grade sound system. Featuring high-end acoustic design. Built for crisp audio performance",
+    "category": "Graphic Design",
+    "subcategory": "Product Design",
+    "technologies": [
+      "Product Packaging",
+      "3D Product Mockup",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Commercial Campaign",
+      "High-Resolution Visuals"
+    ],
+    "imageUrl": "/assets/aistudio/1794498021162_3ef54b1e.jpg",
+    "liveUrl": "/assets/aistudio/1794498021162_3ef54b1e.jpg",
+    "featured": true,
+    "year": "2026",
+    "client": "Pro Audio",
+    "metrics": "Studio-Grade Acoustic Design · 3D Product Mockup · Premium Commercial Art"
+  },
+  {
+    "id": "proj-yt-thumbnail-design",
+    "title": "YT Thumbnail",
+    "description": "High CTR video layout design. Crafted for maximum viewer engagement. Built for clean visual presentation.",
+    "category": "Graphic Design",
+    "subcategory": "Thumbnail Design",
+    "technologies": [
+      "YouTube Thumbnail",
+      "Adobe Photoshop",
+      "High CTR Strategy",
+      "Typography & Cutouts",
+      "1080p Full HD",
+      "Visual Engagement"
+    ],
+    "imageUrl": "/assets/aistudio/Provide_image_prompt_5ddbc665_2K_6af7aab8.jpg",
+    "liveUrl": "/assets/aistudio/Provide_image_prompt_5ddbc665_2K_6af7aab8.jpg",
+    "featured": true,
+    "year": "2026",
+    "client": "YouTube Creators & Channels",
+    "metrics": "High CTR Layout · 1920x1080 Full HD · Maximum Viewer Engagement"
+  },
+  {
+    "id": "proj-social-design-confections",
+    "title": "Social Design",
+    "description": "Artisan cake brand promotional banner layout. Crafted with elegant aesthetic details. Built for clean visual presentation.",
+    "category": "Graphic Design",
+    "subcategory": "Social Media Design",
+    "technologies": [
+      "Social Media Banner",
+      "Adobe Photoshop",
+      "Brand Campaign",
+      "Digital Advertising",
+      "Typography & Layout",
+      "High-Resolution Visuals"
+    ],
+    "imageUrl": "/assets/aistudio/Change_content_text_and_color_b32e8b5f_2K_0aed3578.jpg",
+    "liveUrl": "/assets/aistudio/Change_content_text_and_color_b32e8b5f_2K_0aed3578.jpg",
+    "featured": true,
+    "year": "2026",
+    "client": "Divine Confections",
+    "metrics": "Artisan Promotional Banner · Elegant Aesthetic Details · High-Resolution Campaign"
+  }
+]

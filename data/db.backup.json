@@ -1,0 +1,556 @@
+{
+  "messages": [
+    {
+      "id": "msg-1793553290541",
+      "name": "Gyy",
+      "email": "alikhano81145@gmail.com",
+      "service": "Website Maintenance & Retainers",
+      "category": "Bug Fixing",
+      "budget": "Custom Maintenance Scope",
+      "message": "[Submitted via Gmail Order]\n• Service: Website Maintenance & Retainers\n• Category: Bug Fixing\n\nRequirements:\nFggg",
+      "createdAt": "2026-11-01T17:14:50.635Z",
+      "status": "unread"
+    },
+    {
+      "id": "msg-1793476507901",
+      "name": "Vsgs",
+      "email": "fatimakhan72880@gmail.com",
+      "service": "Web Development",
+      "category": "Business Websites",
+      "preferredTech": "Custom Code",
+      "budget": "$100",
+      "message": "• Service: Web Development\n• Category: Business Websites\n• Client Email: fatimakhan72880@gmail.com\n• Preferred Tech: Custom Code\n\nVggg",
+      "createdAt": "2026-10-31T19:55:09.012Z",
+      "status": "unread"
+    }
+  ],
+  "bookings": [],
+  "partners": [
+    {
+      "id": "pt-1793390251710-573",
+      "token": "UDH-ZAINAB-883AJ",
+      "partnerName": "Zainab Nadeem",
+      "partnerEmail": "zainabnadeem81145@gmail.com",
+      "payoutMethod": "Remitly (International Transfer)",
+      "targetService": "Web Development",
+      "targetCategory": "Business Websites",
+      "createdAt": "2026-10-30T19:57:31.710Z"
+    },
+    {
+      "id": "pt-1793389889855",
+      "token": "UDH-PART-882X",
+      "partnerName": "Bilal Ahmed",
+      "partnerEmail": "bilal.ahmed@example.com",
+      "payoutMethod": "Remitly / Wise / Bank Transfer",
+      "targetService": "Web Development",
+      "targetCategory": "Business Websites",
+      "createdAt": "2026-10-30T19:33:00.000Z"
+    },
+    {
+      "id": "pt-1793273782049",
+      "token": "UDH-TEST-001",
+      "partnerName": "Test Partner",
+      "partnerEmail": "fatimakhan72880@gmail.com",
+      "payoutMethod": "Remitly / Wise / Bank Transfer",
+      "createdAt": "2026-10-29T11:36:22.049Z"
+    }
+  ],
+  "referrals": [
+    {
+      "id": "ref-1793389889855",
+      "partnerToken": "UDH-PART-882X",
+      "partnerName": "Bilal Ahmed",
+      "partnerEmail": "bilal.ahmed@example.com",
+      "clientName": "Tariq Mahmood",
+      "clientEmail": "tariq@example.com",
+      "clientCompany": "Apex Global Ventures",
+      "service": "Web Development",
+      "category": "Business Websites",
+      "projectType": "Web Development",
+      "estimatedBudget": 2500,
+      "commissionPercentage": 20,
+      "commissionAmount": 500,
+      "status": "milestone_25",
+      "source": "order_agreement",
+      "orderNumber": "UDH-ORD-2026-009-K4Z1",
+      "date": "2026-10-30",
+      "submittedAt": "2026-10-30T19:33:00.000Z",
+      "milestone25Paid": true,
+      "milestone25PaidAt": "2026-10-30T19:33:00.000Z",
+      "milestone25Amount": 125
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "name": "Marcus Vance",
+      "role": "Founder & CEO",
+      "location": "San Francisco, CA",
+      "flag": "🇺🇸",
+      "projectType": "Web Development",
+      "quote": "Usman's engineering craftsmanship is top-tier. He took our rough wireframes and turned them into a fast, responsive Next.js platform ahead of our investor demo. Code quality and handoff docs were super clean.",
+      "rating": 5,
+      "createdAt": "2026-09-01T12:00:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-2",
+      "name": "Elena Rostova",
+      "role": "Creative Director",
+      "location": "Dubai, UAE",
+      "flag": "🇦🇪",
+      "projectType": "3D Animated Websites",
+      "quote": "The Three.js 3D viewport and fluid micro-interactions he built impressed our luxury clientele right away. Optimizing heavy 3D lighting for older mobile phones took an extra couple of days of tweaking, but the final 60 FPS result was well worth it.",
+      "rating": 4.5,
+      "createdAt": "2026-09-05T14:30:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-3",
+      "name": "David Sinclair",
+      "role": "E-Commerce VP",
+      "location": "London, United Kingdom",
+      "flag": "🇬🇧",
+      "projectType": "E-Commerce Development",
+      "quote": "Zero cart delays and instant filter speeds. Usman eliminated our frontend bottlenecks and checkout drop-offs dropped noticeably in Q3. Clear daily updates and zero fluff throughout the build.",
+      "rating": 5,
+      "createdAt": "2026-09-10T09:15:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-4",
+      "name": "Alexander Schmidt",
+      "role": "CTO & Co-Founder",
+      "location": "Berlin, Germany",
+      "flag": "🇩🇪",
+      "projectType": "Website Deployment & Cloud Setup",
+      "quote": "Solid DevOps and cloud architecture work. Usman set up our Docker containers, automated CI/CD pipelines, and Cloudflare edge caching cleanly. Initial staging config needed a few adjustments for our legacy API, which he resolved methodically.",
+      "rating": 4,
+      "createdAt": "2026-09-18T16:45:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-5",
+      "name": "Sarah Al-Mansoor",
+      "role": "Founder & Managing Director",
+      "location": "Riyadh, Saudi Arabia",
+      "flag": "🇸🇦",
+      "projectType": "Web Development",
+      "quote": "Usman developed our corporate web portal with crisp bilingual Arabic-English RTL/LTR typography. Very responsive on WhatsApp and handled last-minute content updates from our board without any hassle.",
+      "rating": 5,
+      "createdAt": "2026-09-22T11:20:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-6",
+      "name": "Liam O’Connor",
+      "role": "E-Commerce Brand Founder",
+      "location": "Dublin, Ireland",
+      "flag": "🇮🇪",
+      "projectType": "E-Commerce Development",
+      "quote": "Our mobile checkout speed improved dramatically after Usman refactored our storefront scripts. Timezone differences meant async updates on a few mornings, but every milestone landed on schedule and conversions are up.",
+      "rating": 4.5,
+      "createdAt": "2026-09-28T15:10:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-7",
+      "name": "Chloe Dupont",
+      "role": "Head of Brand & Design",
+      "location": "Paris, France",
+      "flag": "🇫🇷",
+      "projectType": "Graphic Design",
+      "quote": "Usman refreshed our visual identity and Figma component library with real attention to typography and spacing. We went through two quick revision rounds on the color palette and he nailed the exact editorial look we wanted.",
+      "rating": 5,
+      "createdAt": "2026-10-02T10:40:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-8",
+      "name": "Kenji Takahashi",
+      "role": "Product Marketing Lead",
+      "location": "Tokyo, Japan",
+      "flag": "🇯🇵",
+      "projectType": "3D Video Animation",
+      "quote": "Great 3D product animation for our hardware launch video. Camera pacing and material reflections looked sharp in 4K, and he was quick to adjust render framing when our marketing team changed aspect ratios.",
+      "rating": 4.5,
+      "createdAt": "2026-10-06T13:25:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-9",
+      "name": "Dr. Aris Thorne",
+      "role": "VP of Technical Operations",
+      "location": "Toronto, Canada",
+      "flag": "🇨🇦",
+      "projectType": "Website Maintenance",
+      "quote": "Having Usman handle our uptime monitoring, security patching, and Core Web Vitals maintenance has been reliable. Zero unexpected downtime over 9 months and our site consistently scores 98+ on Google PageSpeed.",
+      "rating": 5,
+      "createdAt": "2026-10-11T17:50:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-10",
+      "name": "Isabella Moretti",
+      "role": "Digital Experience Director",
+      "location": "Milan, Italy",
+      "flag": "🇮🇹",
+      "projectType": "3D Animated Websites",
+      "quote": "A genuinely skilled creative developer. Usman built our interactive spatial lookbook with smooth scroll-driven model transitions that run cleanly across mobile Safari and Chrome. Would gladly hire again.",
+      "rating": 5,
+      "createdAt": "2026-10-16T08:30:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-11",
+      "name": "Tariq Al-Thani",
+      "role": "Managing Partner",
+      "location": "Doha, Qatar",
+      "flag": "🇶🇦",
+      "projectType": "Web Development",
+      "quote": "Usman built our executive investment portal from the ground up with Next.js and TypeScript. Page transitions are instant, security headers are properly hardened, and his direct communication made every milestone straightforward.",
+      "rating": 5,
+      "createdAt": "2026-10-18T11:15:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-12",
+      "name": "Hannah Mitchell",
+      "role": "Founder & Brand Director",
+      "location": "Sydney, Australia",
+      "flag": "🇦🇺",
+      "projectType": "E-Commerce Development",
+      "quote": "Migrating our high-SKU fashion catalog to a custom Shopify storefront was seamless. Usman structured the collection filtering, multi-currency checkout, and mobile drawer UX cleanly without bloated third-party apps.",
+      "rating": 5,
+      "createdAt": "2026-10-19T09:40:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-13",
+      "name": "Lukas Van Der Berg",
+      "role": "Head of Engineering",
+      "location": "Amsterdam, Netherlands",
+      "flag": "🇳🇱",
+      "projectType": "Website Deployment & Cloud Setup",
+      "quote": "Reliable cloud migration onto AWS with Nginx reverse proxies, SSL auto-renewal, and zero-downtime GitHub Actions deployment. Fine-tuning our Redis cache invalidation rules took an extra afternoon, and everything has run smoothly since.",
+      "rating": 4.5,
+      "createdAt": "2026-10-20T15:20:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-14",
+      "name": "Zayd Siddiqui",
+      "role": "Co-Founder & CEO",
+      "location": "Lahore, Pakistan",
+      "flag": "🇵🇰",
+      "projectType": "Web Development",
+      "quote": "Working directly with Usman on our B2B SaaS marketing site and dashboard UI was a great experience. Clean React architecture, sub-second load times, and every detail from mobile responsiveness to SEO schema was handled properly.",
+      "rating": 5,
+      "createdAt": "2026-10-21T13:05:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-15",
+      "name": "Mei Lin Tan",
+      "role": "Growth & Digital Lead",
+      "location": "Singapore",
+      "flag": "🇸🇬",
+      "projectType": "3D Animated Websites",
+      "quote": "Our interactive 3D fintech product showcase turned out sharp and responsive across both desktop and mid-range phones. Usman balanced WebGL shader quality with fast initial load speed far better than agencies we worked with previously.",
+      "rating": 5,
+      "createdAt": "2026-10-22T10:50:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-16",
+      "name": "Matteo Conti",
+      "role": "Creative Producer",
+      "location": "Zurich, Switzerland",
+      "flag": "🇨🇭",
+      "projectType": "3D Video Animation",
+      "quote": "Crisp 4K 60fps 3D chronograph reveal for our seasonal campaign. Metallic textures and studio lighting looked authentic, and Usman turned around our requested camera speed tweaks within 24 hours.",
+      "rating": 4.5,
+      "createdAt": "2026-10-24T16:15:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-17",
+      "name": "Rachel Sterling",
+      "role": "Operations Director",
+      "location": "Austin, TX",
+      "flag": "🇺🇸",
+      "projectType": "Website Maintenance",
+      "quote": "We brought Usman in after a plugin update broke our lead forms and tanked mobile Core Web Vitals. He diagnosed the root conflict within hours, set up staging backups, and keeps our platform running fast every month.",
+      "rating": 5,
+      "createdAt": "2026-10-25T18:30:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-18",
+      "name": "Omar Al-Sabah",
+      "role": "Director of Hospitality",
+      "location": "Kuwait City, Kuwait",
+      "flag": "🇰🇼",
+      "projectType": "Graphic Design",
+      "quote": "Complete brand identity, packaging guidelines, and social media visual kit delivered with refined taste. Vector files, print-ready CMYK exports, and typography specs were organized cleanly for our internal team.",
+      "rating": 5,
+      "createdAt": "2026-10-26T12:10:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-19",
+      "name": "Henrik Lindqvist",
+      "role": "Product Architect",
+      "location": "Stockholm, Sweden",
+      "flag": "🇸🇪",
+      "projectType": "3D Animated Websites",
+      "quote": "Impressive spatial storytelling and GSAP scroll choreography for our clean-tech launch page. Compressing our CAD assets into lightweight GLTF models took a bit of back-and-forth, and the final live experience runs effortlessly.",
+      "rating": 4.5,
+      "createdAt": "2026-10-27T14:45:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-20",
+      "name": "Sofia Navarro",
+      "role": "Founder",
+      "location": "Madrid, Spain",
+      "flag": "🇪🇸",
+      "projectType": "E-Commerce Development",
+      "quote": "Usman rebuilt our WooCommerce cosmetics store with a custom checkout flow and Stripe + regional payment integration. Bounce rates fell within the first two weeks and managing inventory is much simpler now.",
+      "rating": 5,
+      "createdAt": "2026-10-28T11:00:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-21",
+      "name": "Callum Fraser",
+      "role": "Technical Director",
+      "location": "Auckland, New Zealand",
+      "flag": "🇳🇿",
+      "projectType": "Website Deployment & Cloud Setup",
+      "quote": "Clean production deployment with Cloudflare DNS, WAF protection, automated database snapshots, and SSL configuration. Documentation handed over at the end made it easy for our in-house devs to follow.",
+      "rating": 5,
+      "createdAt": "2026-10-29T08:20:00.000Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-22",
+      "name": "Nadia Rehman",
+      "role": "Brand Marketing Lead",
+      "location": "Manchester, United Kingdom",
+      "flag": "🇬🇧",
+      "projectType": "Graphic Design",
+      "quote": "From our new geometric logo mark to pitch deck layouts and ad creatives, everything felt cohesive and intentional. Quick communication on WhatsApp and thoughtful design feedback throughout.",
+      "rating": 4.5,
+      "createdAt": "2026-10-30T15:35:00.000Z",
+      "status": "approved"
+    }
+  ],
+  "emailSettings": {
+    "recipientEmails": [
+      "hello@usmandevhub.com"
+    ],
+    "notifyOnContact": true,
+    "lastDeliveryStatus": {
+      "hello@usmandevhub.com": {
+        "status": "needs_activation",
+        "message": "This form needs Activation. We've sent you an email containing an 'Activate Form' link. Just click it and your form will be actived!",
+        "timestamp": "2026-11-01T17:14:52.224Z"
+      }
+    }
+  },
+  "orders": [
+    {
+      "id": "ord-2026-009-k4z1",
+      "orderNumber": "UDH-ORD-2026-009-K4Z1",
+      "agreementTitle": "Commercial Master Services Agreement & Statement of Work (SOW)",
+      "clientName": "Tariq Mahmood",
+      "clientEmail": "tariq@example.com",
+      "clientPhone": "+92 300 1234567",
+      "clientCompany": "Apex Global Ventures",
+      "service": "Web Development",
+      "serviceCategory": "Business Websites",
+      "projectTitle": "Custom High-Performance Enterprise Platform",
+      "scopeDescription": "Custom interactive UI/UX architecture, full-stack API integration & cloud deployment, and 30-day technical SLA warranty.",
+      "deliverables": [
+        "Custom interactive UI/UX architecture",
+        "Full-stack API integration & cloud deployment",
+        "30-day technical SLA warranty"
+      ],
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js"
+      ],
+      "timeline": "14 Business Days",
+      "confirmedPrice": 2500,
+      "currency": "USD",
+      "advancePercentage": 25,
+      "advanceAmount": 625,
+      "paidAmount": 625,
+      "balanceAmount": 1875,
+      "selectedMilestoneStage": "stage_1",
+      "referralToken": "UDH-PART-882X",
+      "partnerName": "Bilal Ahmed",
+      "commissionPercentage": 20,
+      "commissionAmount": 500,
+      "status": "confirmed",
+      "paymentTerms": "3-Stage Milestone Payment Schedule (25% / 35% / 40%)",
+      "milestones": [
+        {
+          "id": "ms-1",
+          "title": "1. Start / Kickoff (25%)",
+          "description": "Payable upfront to initiate sprint architecture, database schema & UI design.",
+          "amount": 625,
+          "percentage": 25,
+          "status": "completed",
+          "stage": 1,
+          "paid": true,
+          "paidAt": "2026-10-30T19:33:00.000Z"
+        },
+        {
+          "id": "ms-2",
+          "title": "2. Mid / Demo (35%)",
+          "description": "Payable midway upon interactive prototype demo, walkthrough & feedback.",
+          "amount": 875,
+          "percentage": 35,
+          "status": "pending",
+          "stage": 2,
+          "paid": false
+        },
+        {
+          "id": "ms-3",
+          "title": "3. Final / Code (40%)",
+          "description": "Payable upon live launch, final review & 100% full source code handover.",
+          "amount": 1000,
+          "percentage": 40,
+          "status": "pending",
+          "stage": 3,
+          "paid": false
+        }
+      ],
+      "legalTerms": "Upon final Stage 3 settlement, 100% of all source code, design assets, NDA confidentiality, and production deliverables unconditionally transfer to client ownership. Includes 30 calendar days of post-launch technical warranty & rapid bug-fixing SLA.",
+      "adminSignatureName": "Muhammad Usman Afzal",
+      "adminSignatureDesignation": "Founder & Principal Creative Technologist",
+      "themeMode": "light",
+      "agreementDate": "2026-10-30",
+      "createdAt": "2026-10-30T19:33:00.000Z",
+      "updatedAt": "2026-10-30T19:33:00.000Z",
+      "confirmedAt": "2026-10-30T19:33:00.000Z"
+    }
+  ],
+  "lastOrderSeq": 9,
+  "issuedOrderNumbers": [
+    "UDH-ORD-2026-009-K4Z1"
+  ],
+  "deletedOrderIds": [],
+  "lastPartnerTokenSeq": 883,
+  "issuedPartnerTokens": [
+    "UDH-TEST-001",
+    "UDH-PART-882X",
+    "UDH-ZAINAB-883AJ",
+    "UDH-TEST-TEMP99"
+  ],
+  "deletedPartnerTokens": [
+    "UDH-TEST-TEMP99"
+  ],
+  "deletedReviewIds": [],
+  "adminSecurity": {
+    "allowedEmails": [
+      "hello@usmandevhub.com",
+      "usmanafzal3254@gmail.com"
+    ],
+    "passwordSalt": "64e82aa4c0dd69c1190156cbd53cdeaad1d3b5ff54df45d243a45b95c184c5fa",
+    "passwordHash": "2238d2ac1f17d31ab4328d3ad4b58f7e5f4c496de12432677a82de138b00e9ee5b1f32991f72bfddeed508bcb7caabdfd845bddd639217ab52a5bafdf9f937d8",
+    "sessionSecret": "980882e400b62324bf23f235e214b80b2bfeb09e851ae1b3145e68119a0851fc9eb59a02baa80612173904eb6cb24668",
+    "passwordUpdatedAt": "2026-11-02T07:50:00.000Z"
+  },
+  "projects": [
+    {
+      "id": "proj-velora-perfumes",
+      "title": "VELORA – Luxury Perfume E-Commerce Website",
+      "description": "An elegant luxury perfume website inspired by Parisian haute parfumerie, featuring premium fragrances, immersive visuals, and a sophisticated shopping experience.",
+      "category": "3D Animated Websites",
+      "subcategory": "Cinematic 3D Websites",
+      "technologies": [
+        "Three.js",
+        "WebGL",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Cloudflare Workers",
+        "3D Visualizer"
+      ],
+      "imageUrl": "/images/showcases/velora.webp",
+      "liveUrl": "https://velora-parfums-paris.fatimakhan72880.workers.dev/",
+      "featured": true,
+      "year": "2026",
+      "client": "VELORA Parfums Paris",
+      "metrics": "Cinematic 3D Visualizer · Parisian Luxury Aesthetics · E-Commerce Commerce Engine"
+    },
+    {
+      "id": "proj-juicydrop",
+      "title": "JuicyDrop – Premium Beverage E-Commerce Website",
+      "description": "A vibrant beverage e-commerce website featuring cold-pressed sparkling drinks, interactive product showcases, custom 12-pack selections, and a seamless shopping experience.",
+      "category": "3D Animated Websites",
+      "subcategory": "Interactive 3D Product Experiences",
+      "technologies": [
+        "Three.js",
+        "WebGL",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Cloudflare Workers",
+        "Interactive 3D Can Showcase"
+      ],
+      "imageUrl": "/images/showcases/juicydrop.webp",
+      "liveUrl": "https://juicydrop.fatimakhan72880.workers.dev/",
+      "featured": true,
+      "year": "2026",
+      "client": "JuicyDrop Sparkling Drinks",
+      "metrics": "Interactive 3D Can Rotation · Custom 12-Pack Configurator · 60fps Experience"
+    },
+    {
+      "id": "proj-la-veranda",
+      "title": "La Véranda – Luxury Restaurant Website",
+      "description": "A premium Italian fine-dining website featuring elegant visuals, an exquisite menu, immersive dining experiences, and seamless table reservations.",
+      "category": "Web Development",
+      "subcategory": "Business Websites",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Cloudflare Workers",
+        "Interactive UI"
+      ],
+      "imageUrl": "/images/showcases/la-veranda.png",
+      "liveUrl": "https://v-la-v-randa-web-servicecc.fatimakhan72880.workers.dev/",
+      "featured": true,
+      "year": "2026",
+      "client": "La Véranda Ristorante Storico",
+      "metrics": "100% Responsive · Seamless Table Reservations · Fine-Dining Luxury"
+    },
+    {
+      "id": "proj-marginal",
+      "title": "Marginal – Creative Studio & Typography Website",
+      "description": "A sophisticated creative studio website showcasing brand identity, custom typography, and editorial design. Featuring minimalist aesthetics, immersive galleries, and refined digital experiences.",
+      "category": "Web Development",
+      "subcategory": "Portfolio Websites",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Cloudflare Workers",
+        "Editorial Grid",
+        "Typography Design"
+      ],
+      "imageUrl": "/images/showcases/marginal.png",
+      "liveUrl": "https://marginal.fatimakhan72880.workers.dev/",
+      "featured": true,
+      "year": "2026",
+      "client": "Marginal Type & Design Practice",
+      "metrics": "Editorial Grid Layout · Custom Type Architecture · 60fps Micro-Interactions"
+    }
+  ]
+}

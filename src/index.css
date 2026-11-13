@@ -1,0 +1,239 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body,
+  * {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  html {
+    overflow-x: clip;
+    max-width: 100%;
+    -webkit-text-size-adjust: 100%;
+    overflow-anchor: none;
+  }
+
+  body {
+    overflow-x: clip;
+    min-height: 100vh;
+    min-height: 100svh;
+    max-width: 100%;
+    overflow-anchor: none;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: #0e0e0e;
+    background-color: #fbfbfe;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+.font-display {
+  font-family: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Hide visible scrollbar tracks globally while keeping smooth scrolling */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  display: none;
+  background: transparent;
+}
+
+/* Glassmorphic utilities */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+}
+
+.glass-dark {
+  background: rgba(14, 14, 14, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Gradient text utility */
+.text-gradient-blue {
+  background: linear-gradient(135deg, #1430d8 0%, #0075f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gradient-royal {
+  background: linear-gradient(135deg, #1430d8 0%, #0075f7 100%);
+}
+
+/* Hide scrollbar for horizontal chip carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth continuous marquee */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 32s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Completely disable and hide video download options across browsers */
+video::-internal-media-controls-download-button {
+  display: none !important;
+}
+
+video::-webkit-media-controls-download-button {
+  display: none !important;
+}
+
+video::-webkit-media-controls-enclosure {
+  overflow: hidden;
+}
+
+/* Print Styles: Isolate Agreement Document and Format for Clean A4 */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* Hide everything on page by default */
+  body * {
+    visibility: hidden;
+  }
+
+  /* Make ONLY the official agreement document visible and position at top left */
+  #usman-official-order-document-modal,
+  #usman-official-order-document-modal *,
+  #usman-official-order-document-light,
+  #usman-official-order-document-light * {
+    visibility: visible;
+  }
+
+  #usman-official-order-document-modal,
+  #usman-official-order-document-light {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 20mm !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+}
+
+/* Bulletproof Floating WhatsApp Button for 100% Mobile, Tablet & Desktop Visibility */
+.whatsapp-floating-wrapper {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 16px !important;
+  z-index: 999999 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  pointer-events: auto !important;
+  user-select: none !important;
+  -webkit-user-select: none !important;
+}
+
+@media (min-width: 640px) {
+  .whatsapp-floating-wrapper {
+    bottom: 28px !important;
+    right: 24px !important;
+  }
+}
+
+.whatsapp-floating-btn {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 54px !important;
+  height: 54px !important;
+  border-radius: 9999px !important;
+  background-color: #25D366 !important;
+  color: #ffffff !important;
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.5), 0 2px 6px rgba(0, 0, 0, 0.15) !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  touch-action: manipulation !important;
+  -webkit-tap-highlight-color: transparent !important;
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+@media (min-width: 640px) {
+  .whatsapp-floating-btn {
+    width: 60px !important;
+    height: 60px !important;
+  }
+}
+
+.whatsapp-floating-btn:hover {
+  background-color: #20bd5a !important;
+  transform: scale(1.06) !important;
+  box-shadow: 0 8px 28px rgba(37, 211, 102, 0.65), 0 4px 10px rgba(0, 0, 0, 0.2) !important;
+}
+
+.whatsapp-floating-btn:active {
+  transform: scale(0.94) !important;
+  background-color: #1caa4f !important;
+}
+
+.whatsapp-ping-ring {
+  position: absolute !important;
+  inset: 0 !important;
+  border-radius: 9999px !important;
+  background-color: #25D366 !important;
+  opacity: 0.3 !important;
+  animation: ping 2.5s cubic-bezier(0, 0, 0.2, 1) infinite !important;
+  pointer-events: none !important;
+}
+
+.whatsapp-online-dot {
+  position: absolute !important;
+  top: 1px !important;
+  right: 1px !important;
+  width: 13px !important;
+  height: 13px !important;
+  border-radius: 9999px !important;
+  background-color: #4ade80 !important;
+  border: 2px solid #ffffff !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+  pointer-events: none !important;
+}
+
+

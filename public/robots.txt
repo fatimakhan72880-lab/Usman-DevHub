@@ -1,0 +1,51 @@
+# Usman DevHub - Search Engine Crawler Directives
+# Canonical Website: https://usmandevhub.com/
+# Studio: Usman DevHub Tech & Creative Studio (Founded by Muhammad Usman Afzal)
+
+User-agent: *
+Allow: /
+Allow: /#services
+Allow: /#service-*
+Allow: /#work
+Allow: /#founder
+Allow: /#referral
+Allow: /#testimonials
+Allow: /#faq
+Allow: /#contact
+Allow: /favicon.svg
+Allow: /favicon.ico
+Allow: /favicon.png
+Allow: /favicon-32x32.png
+Allow: /favicon-16x16.png
+Allow: /apple-touch-icon.png
+Allow: /images/
+Allow: /assets/
+Disallow: /api/
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /security
+Disallow: /password-vault
+
+User-agent: Googlebot
+Allow: /
+Allow: /#service-*
+Allow: /favicon*
+Allow: /apple-touch-icon.png
+Allow: /images/
+Allow: /assets/
+
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /assets/
+Allow: /apple-touch-icon.png
+Allow: /favicon*
+
+User-agent: Bingbot
+Allow: /
+Allow: /#service-*
+Allow: /images/
+Allow: /assets/
+
+# Crawl Delay & Sitemap
+Sitemap: https://usmandevhub.com/sitemap.xml
+Host: https://usmandevhub.com
